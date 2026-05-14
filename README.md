@@ -147,4 +147,4 @@
 
 ### 📄 Resume
 
-[⬇️ Download Resume](https://YOUR_RESUME_LINK_HERE)
+[⬇️ Download Resume]([https://YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1lZxqWmcIoNHVCpRG7_sOTLCDbafTIjZV/view?usp=sharing))
